@@ -1,2 +1,7 @@
 # viewer
-一个功能强大的图片查看器
+
+* 一个功能强大的图片查看器
+
+# 注意
+
+* 本文版权属于jQuery之家，本人只是勤劳的搬运工。[viewer](http://www.htmleaf.com/jQuery/Image-Effects/201509032517.html "jquery之家viewer插件")
