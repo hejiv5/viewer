@@ -4,4 +4,4 @@
 
 # 注意
 
-* 本文版权属于jQuery之家，本人只是勤劳的搬运工。[viewer](http://www.htmleaf.com/jQuery/Image-Effects/201509032517.html "jquery之家viewer插件")
+* 插件版权属于jQuery之家，本人只是勤劳的搬运工。[jquery之家viewer](http://www.htmleaf.com/jQuery/Image-Effects/201509032517.html "jquery之家viewer插件")
